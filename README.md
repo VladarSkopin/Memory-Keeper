@@ -4,7 +4,7 @@ Memory Keeper allows you to choose a photo and create a beautiful memory card, w
 
 
 
-!!!The app is currently under development!!!
+[The app is currently under development]
 
 
 
