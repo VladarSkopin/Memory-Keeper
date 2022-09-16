@@ -1,10 +1,12 @@
+
+
+[The app is currently under development]
+
+
 Memory Keeper allows you to choose a photo and create a beautiful memory card, with deffirent customizations and sorting options.
 
 ![Memory cards front page](/memory_keeper_screenshot_1.PNG?raw=true "Front page")
 
-
-
-[The app is currently under development]
 
 
 
